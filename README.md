@@ -1,4 +1,4 @@
-# **Week-5: Batch Processing**
+# **Batch Processing**
 
 # What is Batch Processing?
 
