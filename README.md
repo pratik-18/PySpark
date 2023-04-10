@@ -1202,7 +1202,7 @@ spark = SparkSession.builder \
 
 You may find more sophisticated uses of `spark-submit` in the [official documentation](https://spark.apache.org/docs/latest/submitting-applications.html).
 
-> You may download a finished script #### from this link
+> You may download a finished script from [here](https://github.com/pratik-18/PySpark/blob/main/code/SQL_with_Spark.py)
 > 
 
 After you're done running Spark in standalone mode, you will need to manually shut it down. Simply run the `./sbin/stop-worker.sh` (`./sbin/stop-slave.sh` in older Spark versions) and `./sbin/stop-master.sh` scripts to shut down Spark.
